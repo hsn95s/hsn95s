@@ -15,7 +15,7 @@ I have hands-on experience with Python, SQL, systems programming, full-stack web
 
 ## Featured Work
 
-### Lar / الر
+### Lar / لار
 A pre-launch Saudi interior design platform focused on Arabic-first UX, fixed pricing, and managed workflows for clients, designers, operations, and admins.
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, GitHub
