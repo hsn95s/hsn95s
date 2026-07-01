@@ -1,6 +1,6 @@
 # Hassan Alhanfoosh
 
-Computer Science graduate from Rutgers University with Cum Laude honors, focused on software development, data, and product-oriented technology roles.
+Computer Science graduate from Rutgers University with Cum Laude honors, interested in software development, data, and product-oriented technology roles.
 
 I have hands-on experience with Python, SQL, systems programming, full-stack web development, and enterprise IT support. I am currently building **Lar / الر**, a Saudi interior design platform focused on Arabic-first user experience, fixed pricing, and managed project workflows.
 
