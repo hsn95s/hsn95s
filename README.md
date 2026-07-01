@@ -39,4 +39,4 @@ Maze exploration project focused on mapping unknown environments using BFS, real
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/hassanalhanfoosh
+- LinkedIn: [linkedin.com/in/hassanalhanfoosh](https://www.linkedin.com/in/hassanalhanfoosh)
