@@ -1,8 +1,8 @@
 # Hassan Alhanfoosh
 
-Computer Science graduate from Rutgers University with Cum Laude honors, interested in entry-level software development, data/BI trainee, technology graduate, and technical product roles.
+Computer Science graduate from Rutgers University with Cum Laude honors, interested in entry-level software development, data/BI trainee, technology graduate and technical product roles.
 
-Most of my hands-on project work is in Python, including search and simulation projects using BFS, Bayesian methods, and grid-based planning. I am also developing Lar, a private pre-launch web product focused on Arabic-first user experience and managed project workflows using Next.js and TypeScript.
+Most of my hands-on project work is in Python, including search and simulation projects using BFS, Bayesian methods and grid-based planning. I am also developing Lar, a private pre-launch web product focused on Arabic-first user experience and managed project workflows using Next.js and TypeScript.
 
 My earlier experience includes IT technician work on the Saudi Arabia Railways project and a Saudi Aramco CO-OP in the Business Intelligence Solutions Department.
 
